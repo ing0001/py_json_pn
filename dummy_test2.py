@@ -17,8 +17,8 @@ import pandas as pd
 import re
 import ujson
 from pandas.io.json import json_normalize
-tweets = pd.DataFrame() #initialize data frames used for processing tweets content
-tweets1 = pd.DataFrame()
+tweets = pd.DataFrame()  #initialize data frames used for processing tweets content
+tweets1 = pd.DataFrame() #love
 tweets_data_in_json = []
 counters = 0
 
